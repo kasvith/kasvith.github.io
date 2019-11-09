@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kasvith.github.io/sitemap.xml
