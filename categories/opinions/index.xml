@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>opinions on kasvith.github.io - a personal blog space</title>
-    <link>https://kasvith.github.io/categories/opinions/</link>
-    <description>Recent content in opinions on kasvith.github.io - a personal blog space</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:24:44 +0530</lastBuildDate>
-    
-	<atom:link href="https://kasvith.github.io/categories/opinions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Moving to My Own Space</title>
-      <link>https://kasvith.github.io/posts/moving-to-my-own-space/</link>
-      <pubDate>Mon, 29 Jul 2019 00:24:44 +0530</pubDate>
-      
-      <guid>https://kasvith.github.io/posts/moving-to-my-own-space/</guid>
-      <description>Why moving to own space It&amp;rsquo;s been a while I started blogging. I started from Blogger, Wordpress and finally stopped over Medium. It was fine to use these awesome tools. But with the time I felt that moving to my own space is better for blogging.
-While these platform provides a great service I wanted more control over my content. I hate ads and stuffs, paywalls and I know you do too.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>opinions on kasvith.github.io - a personal blog space</title><link>https://kasvith.github.io/categories/opinions/</link><description>Recent content in opinions on kasvith.github.io - a personal blog space</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 29 Jul 2019 00:24:44 +0530</lastBuildDate><atom:link href="https://kasvith.github.io/categories/opinions/index.xml" rel="self" type="application/rss+xml"/><item><title>Moving to My Own Space</title><link>https://kasvith.github.io/posts/moving-to-my-own-space/</link><pubDate>Mon, 29 Jul 2019 00:24:44 +0530</pubDate><guid>https://kasvith.github.io/posts/moving-to-my-own-space/</guid><description>Why moving to own space It&amp;rsquo;s been a while I started blogging. I started from Blogger, Wordpress and finally stopped over Medium. It was fine to use these awesome tools. But with the time I felt that moving to my own space is better for blogging.
+While these platform provides a great service I wanted more control over my content. I hate ads and stuffs, paywalls and I know you do too.</description></item></channel></rss>

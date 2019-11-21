@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>golang on kasvith.github.io - a personal blog space</title>
-    <link>https://kasvith.github.io/categories/golang/</link>
-    <description>Recent content in golang on kasvith.github.io - a personal blog space</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2019 16:34:56 +0000</lastBuildDate>
-    
-	<atom:link href="https://kasvith.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>How  I Embedded Resources  in  Go</title>
-      <link>https://kasvith.github.io/posts/how-i-embedded-resources-in-go/</link>
-      <pubDate>Fri, 26 Jul 2019 16:34:56 +0000</pubDate>
-      
-      <guid>https://kasvith.github.io/posts/how-i-embedded-resources-in-go/</guid>
-      <description>During my internship period at WSO2, Inc I worked on a project to develop a CI/CD pipeline for WSO2 API Manager. The tooling was mostly done in Golang.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>golang on kasvith.github.io - a personal blog space</title><link>https://kasvith.github.io/categories/golang/</link><description>Recent content in golang on kasvith.github.io - a personal blog space</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 26 Jul 2019 16:34:56 +0000</lastBuildDate><atom:link href="https://kasvith.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml"/><item><title>How I Embedded Resources in Go</title><link>https://kasvith.github.io/posts/how-i-embedded-resources-in-go/</link><pubDate>Fri, 26 Jul 2019 16:34:56 +0000</pubDate><guid>https://kasvith.github.io/posts/how-i-embedded-resources-in-go/</guid><description>During my internship period at WSO2, Inc I worked on a project to develop a CI/CD pipeline for WSO2 API Manager. The tooling was mostly done in Golang.
 When we were developing the tooling we wanted to have a project initialization phase through the CLI tool. That indeed involves a lot of code generation.
-In the beginning, everything was fine, we had few files and we kept them as slices of bytes and accessed them, which was totally fine.</description>
-    </item>
-    
-  </channel>
-</rss>
+In the beginning, everything was fine, we had few files and we kept them as slices of bytes and accessed them, which was totally fine.</description></item></channel></rss>
